@@ -1,0 +1,2 @@
+# pytorch_for_beginners
+该项目旨在帮助未学习过pytorch的同学快速上手pytorch，也是作者自己上手练习的代码，结合小土堆视频使用即可。
